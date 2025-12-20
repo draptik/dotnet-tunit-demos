@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Demo2CSharpTests/Demo2CSharpTests.csproj" />
+  <Project Path="Demo2FSharpTests/Demo2FSharpTests.fsproj" />
+</Solution>

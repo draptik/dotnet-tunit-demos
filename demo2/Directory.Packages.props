@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="FSharp.Core" Version="10.0.100" />
+    <PackageVersion Include="TUnit" Version="1.5.80" />
+    <PackageVersion Include="TUnit.Assertions.FSharp" Version="1.5.80" />
+  </ItemGroup>
+</Project>
