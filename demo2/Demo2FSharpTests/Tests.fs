@@ -1,6 +1,5 @@
-﻿namespace Demo2FSahrpTests
+﻿namespace Demo2FSharpTests
 
-open System
 open TUnit.Core
 open TUnit.Assertions
 open TUnit.Assertions.Extensions

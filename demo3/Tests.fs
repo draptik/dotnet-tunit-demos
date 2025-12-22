@@ -1,4 +1,4 @@
-﻿namespace Demo2FSahrpTests
+﻿namespace Demo2FSharpTests
 
 open System
 open TUnit.Core
